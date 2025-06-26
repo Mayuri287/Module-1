@@ -14,3 +14,15 @@ print('Division: ',x/y)
 Division:  0.5
 
 # Task 2
+input('John'+' Doe')
+John Doe
+''
+input('Hello,'+' John Doe!'+' Welcome'+' to'+' the'+' python'+' program')
+Hello, John Doe! Welcome to the python program
+''
+input('Hello,'+' John Doe!'+' Welcome'+' to'+' the'+' python'+' program.')
+Hello, John Doe! Welcome to the python program.
+''
+a= ' Hello, John Doe! Welcome to the python program.'
+print(a)
+ Hello, John Doe! Welcome to the python program.
